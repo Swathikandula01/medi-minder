@@ -81,40 +81,6 @@ The following improvements may be added in future versions:
 - `android/` — Android platform configuration
 - `ios/` — iOS platform configuration
 
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK 3.8.0 or later
-- Dart SDK compatible with the installed Flutter version
-- Android emulator, iOS simulator, or a physical device
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Swathikandula01/medi-minder.git
-   ```
-
-2. Open the project directory:
-
-   ```bash
-   cd medi-minder
-   ```
-
-3. Install the project dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the application:
-
-   ```bash
-   flutter run
-   ```
-
 ## Disclaimer
 
 Medi-Minder is intended for general wellness and routine management only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional for medical concerns, medicine-related decisions, or changes to a treatment plan.
